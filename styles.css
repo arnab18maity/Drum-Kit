@@ -1,0 +1,103 @@
+body {
+  text-align: center;
+  background: url(./wallpaperflare.com_wallpaper\ \(4\).jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  
+  background: url(./tom1.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+
+
+}
+
+.a {
+  background: url(./tom2.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.s {
+  background: url(./tom3.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.d {
+  background: url(./tom4.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.j {
+  background: url(./snare.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+
+
+}
+
+.k {
+  background: url(./crash.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.l {
+  background: url(./kick.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 3px solid #ff37bc;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #dffdfa;
+  text-shadow: 3px 0 #000000;
+  border-radius: 150px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
